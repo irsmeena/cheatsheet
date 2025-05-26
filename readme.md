@@ -47,3 +47,7 @@ to embedd links
 .gitignore is a text file which lists what to ignore 
 __pycache__/
 .pytest_cache/
+
+
+
+<pre lang="markdown"> ```python def greet(name): print(f"Hello, {name}") ``` </pre>
