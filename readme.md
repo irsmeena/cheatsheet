@@ -36,3 +36,14 @@ to embedd images
 
 to embedd links 
 [Visit GitHub](https://github.com)
+
+
+.git modules is a text file which lists the local directory path of the submodule and its corresponding remote URL 
+[submodule "Lab2_submodule]
+   path = Lab2_submodule 
+   url = https://github/ET0735..sjxsj
+
+
+.gitignore is a text file which lists what to ignore 
+__pycache__/
+.pytest_cache/
