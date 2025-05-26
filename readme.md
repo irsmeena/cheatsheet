@@ -51,3 +51,6 @@ __pycache__/
 
 
 <pre lang="markdown"> ```python def greet(name): print(f"Hello, {name}") ``` </pre>
+
+
+Use the `print` command.
